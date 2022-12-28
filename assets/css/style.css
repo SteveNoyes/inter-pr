@@ -1,5 +1,4 @@
-/* - Mobile: 375px
-- Desktop: 1440px */
+/* Mobile: 375px - Desktop: 1440px */
 
 :root {
 /* Primary */
@@ -20,9 +19,10 @@
 - Dark Desaturated Blue (Text & CTA Background): hsl(227, 35%, 25%)
 }
 
-- Font size (Introductory Paragraph): 15px
 
-/* Font */
 
-- Family: [Manrope](https://fonts.google.com/specimen/Manrope)
-- Weights: 600, 800
+body {
+  /* Font Size Introductory Paragraph */
+  font-size: 15px;
+  /* Font Weights: 600, 800 */
+}
