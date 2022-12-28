@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://pages.github.com/)
+- Solution URL: [GitHub Repo](https://github.com/SteveNoyes/inter-pr)
+- Live Site URL: [GitHub Pages](hhttps://stevenoyes.github.io/inter-pr/)
 
 ## My process
 
