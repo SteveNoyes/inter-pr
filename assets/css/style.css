@@ -1,7 +1,7 @@
 /* Mobile: 375px - Desktop: 1440px */
 
 :root {
-  
+
 /* Primary */
 
 /* (Full Slider Bar) */
@@ -30,8 +30,6 @@
 /* (Text & CTA Background) */
 --dark-desaturated-blue: hsl(227, 35%, 25%);
 }
-
-
 
 body {
   /* Font Size Introductory Paragraph */

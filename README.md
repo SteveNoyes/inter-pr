@@ -36,7 +36,6 @@ Users should be able to:
 
 - HTML5 markup
 - CSS  
-- Flexbox
 - Vanilla JavaScript
 - Mobile-first workflow
 
