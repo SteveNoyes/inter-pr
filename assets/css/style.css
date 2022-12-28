@@ -3,7 +3,6 @@
 :root {
 
 /* Primary */
-
 /* (Full Slider Bar) */
 --soft-cyan: hsl(174, 77%, 80%);
 /* (Slider Backround) */
@@ -16,7 +15,6 @@
 --pale-blue: hsl(226, 100%, 87%);
 
 /* Neutral */
-
 /* (Pricing Component Background) */
 --white: hsl (0, 0%, 100%);
 /* (Main Background) */
@@ -36,5 +34,9 @@ body {
   font-size: 15px;
   font-family: 'Manrope';
   /* Font Weights: 600, 800 */
+}
+
+.checkSec {
+  display: flex;
 }
 
