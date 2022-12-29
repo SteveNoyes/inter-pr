@@ -35,13 +35,14 @@ body {
 }
 
 .topHead {
+  display: flex;
+  justify-content: center;
+  text-align: center;
   border: 1px solid red;
-  
-  height: 100px;
-  width: auto;
 }
 
 .imgBG {
+  border: 1px solid red;
   background-image: url("../images/pattern-circles.svg");
   background-position: center;
   background-size: cover;
