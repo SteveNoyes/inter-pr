@@ -46,8 +46,12 @@ body {
 .imgBG {
   border: 1px solid red;
   background-image: url("../images/pattern-circles.svg");
-
   background-position: center;
   background-size: 150px 150px;
   background-repeat: no-repeat;
+}
+
+
+.checkSec {
+  display: flex;
 }
