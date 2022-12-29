@@ -36,4 +36,14 @@ body {
 
 .topHead {
   border: 1px solid red;
+  
+  height: 100px;
+  width: auto;
+}
+
+.imgBG {
+  background-image: url("../images/pattern-circles.svg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
