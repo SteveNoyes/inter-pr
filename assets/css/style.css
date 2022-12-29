@@ -1,4 +1,4 @@
-/* Mobile: 375px - Desktop: 1440px */
+/* Desktop: 1440px */
 
 :root {
 /* Primary */
@@ -28,6 +28,7 @@
 }
 
 body {
+  text-align: center;
   /* Font Size Introductory Paragraph */
   font-size: 15px;
   font-family: 'Manrope';
@@ -39,12 +40,14 @@ body {
   justify-content: center;
   text-align: center;
   border: 1px solid red;
+  height: 20rem;
 }
 
 .imgBG {
   border: 1px solid red;
   background-image: url("../images/pattern-circles.svg");
+
   background-position: center;
-  background-size: cover;
+  background-size: 150px 150px;
   background-repeat: no-repeat;
 }
