@@ -54,3 +54,11 @@ body {
 .testing {
   display: flex;
 }
+
+p {
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 20px;
+}
